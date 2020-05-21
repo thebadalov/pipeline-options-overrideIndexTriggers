@@ -8,7 +8,7 @@ pipeline{
         stage("Build"){
            steps{
                timestamps {
-                   echo "Hello World" 
+                   echo "Hello World 1" 
                }
            }
         }
